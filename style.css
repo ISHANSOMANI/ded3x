@@ -1,0 +1,44 @@
+h1{
+    font-family: 'Monoton';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  font-size: 70px;
+  color: gray;
+}
+
+body{
+    border: dashed;
+    background-image: url("download.jpg");
+    
+    background-blend-mode: lighten;
+
+}
+
+#lol{
+    color: gray;
+    text-align: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 30px;
+}
+
+#console{
+    color: gray;
+    text-align: center;
+    font-family: 'Ruslan Display', cursive;
+    font-size: 70px;
+}
+
+#ehhe{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: grey;
+}
+
+#ndk{
+    font-size: 70px;
+    font-weight: bold;
+    color: grey;
+    font-family: Algerian;
+}
